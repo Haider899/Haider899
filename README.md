@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Haider899
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Haider Usama
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Sec+, Ethical Hacking, 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me haiderusama707@gmail.com
+- IG- Haider_Usama
 
 <!---
 Haider899/Haider899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
