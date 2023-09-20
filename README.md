@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haider Usama
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Sec+, Ethical Hacking, 
+- 🌱 I’m currently learning Sec+,Network+, Ethical Hacking, 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me haiderusama707@gmail.com
 - IG- Haider_Usama
