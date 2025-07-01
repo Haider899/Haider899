@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haider Usama
-- 👀 I’m interested in Cyber Security
+- 👀 I’m Cyber Security Researcher
 - 🌱 I’m currently learning Sec+,Network+, Ethical Hacking, 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hacks404@proton.me
