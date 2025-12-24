@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Haider Usama
-- 👀 I’m Cyber Security Researcher
-- 🌱 I’m currently learning Sec+,Network+, Ethical Hacking, 
-- 💞️ I’m looking to collaborate on 
+Ethical Hacker | Security Auditor | Offensive Security
+
+ Web & WordPress Pentesting
+ Vulnerability Research (OWASP Top 10)
+ Bug Bounty Hunter
+ Python | Linux | Burp Suite | Nmap | OSINT
+ Building tools for real-world security testing
 - 📫 How to reach me hacks404@proton.me
   
 
