@@ -1,4 +1,7 @@
-Ethical Hacker | Security Auditor | Offensive Security
+CEH | Ethical Hacker | Security Researcher
+Penetration Tester | Bug Bounty Hunter | OWASP Contributor
+Building tools for offensive security & network visualization
+Python | Linux | Burp Suite | Nmap | OSINT
 
  Web & WordPress Pentesting
  Vulnerability Research (OWASP Top 10)
