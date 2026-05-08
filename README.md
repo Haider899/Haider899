@@ -19,7 +19,7 @@
 </h6>
 
 <p align="center">
-    <a href="https://haider899.github.io/haider-portfolio/"><img
+    <a href="https://haider899.github.io/Portfolio-/"><img
     alt="Portfolio"
     height="22px"
     src="https://img.shields.io/badge/PORTFOLIO-1FBFA6?style=for-the-badge&logoWidth=14"
